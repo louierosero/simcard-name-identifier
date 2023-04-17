@@ -14,7 +14,7 @@ To use this app, simply enter the first four digits of the sim card number into 
 
 ## Getting Started
 
-To get started with this project, you can simply clone this repository to your local machine and open the index.html file in your web browser. Alternatively, you can also visit the [live demo]{www.linkhere.com} of this app hosted on Github Pages.
+To get started with this project, you can simply clone this repository to your local machine and open the index.html file in your web browser. Alternatively, you can also visit the [live demo](www.linkhere.com) of this app hosted on Github Pages.
 
 ## Usage
 
@@ -26,4 +26,4 @@ If you would like to contribute to this project, feel free to submit a pull requ
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md]{https://github.com/louierosero/simcard-name-identifier/blob/main/LICENSE} file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/louierosero/simcard-name-identifier/blob/main/LICENSE) file for details.
