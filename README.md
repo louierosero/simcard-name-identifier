@@ -14,7 +14,7 @@ To use this app, simply enter the first four digits of the sim card number into 
 
 ## Getting Started
 
-To get started with this project, you can simply clone this repository to your local machine and open the index.html file in your web browser. Alternatively, you can also visit the [live demo](https://simcard-name-identifier.netlify.app) of this app hosted on Github Pages.
+To get started with this project, you can simply clone this repository to your local machine and open the index.html file in your web browser. Alternatively, you can also visit the [live demo](https://simcard-name-identifier.netlify.app) of this app hosted on Netlify.
 
 ## Usage
 
